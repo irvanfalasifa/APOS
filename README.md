@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  AIG contoh aplikasi inventory gudang with Laravel
+  APOS contoh aplikasi point of sales with Laravel
 </p>
 
 <p align='center'>
