@@ -1,5 +1,18 @@
-<p align="center">
-    <a href="https://github.com/sandinur157" target="_blank"><img src="https://raw.githubusercontent.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/main/public/img/logo.png" width="120"></a>
+
+
+<h1 align='center'>
+  Hi, I'm Irvan Falasifa
+</h1>
+
+<p align='center'>
+  AIG contoh aplikasi inventory gudang with Laravel
+</p>
+
+<p align='center'>
+ <a href='mailto:irvan.falasfia@gmail.com'> 
+  <img src="https://img.shields.io/badge/mail%20box-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /> 
+ </a>&nbsp;&nbsp;
+  
 </p>
 
 ## Tentang Aplikasi
@@ -35,11 +48,8 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales.git
+git clone https://github.com/irvanfalasifa/APOS.git
 ```
-
-### Download ZIP
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
 
 ### Setup Aplikasi
 Jalankan perintah 
@@ -87,11 +97,6 @@ Menjalankan aplikasi
 ```bash
 php artisan serve
 ```
-
-## Link Tutorial
-
-- [Youtube](https://www.youtube.com/playlist?list=PLaN75JfoGz0Okf9f_7GbGM5IFaLXWx-_C)
-- [W2Learn](https://www.w2learn.com)
 
 ## License
 
